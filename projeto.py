@@ -3,8 +3,8 @@ from tkinter import messagebox
 from random import randint
 
 # Configurações do jogo
-TAMANHO_CAMPO = 20
-LARGURA_CAMPO = 20
+TAMANHO_CAMPO = 30
+LARGURA_CAMPO = 30
 ALTURA_CAMPO = 20
 DELAY = 100
 ARQUIVO_PONTUACAO = "pontuacao.txt"
