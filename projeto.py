@@ -1,3 +1,5 @@
+# Aluno: Cauã Emannuel Barbosa Ferreira e Juan Emannuel Barbosa Ferreira
+
 import tkinter as tk
 from tkinter import messagebox
 from random import randint
